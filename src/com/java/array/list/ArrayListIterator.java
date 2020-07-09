@@ -11,6 +11,8 @@ public class ArrayListIterator
 	public static void main(String[] args) 
 	{
 
+		// Adding additional commit Asian employee
+		
 		ArrayList<Integer> list = new ArrayList<Integer>(Arrays.asList(2,4,6,8));
 		System.out.println("List size: " + list.size());
 		

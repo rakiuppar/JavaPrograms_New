@@ -8,7 +8,9 @@ public class ArrayListExample1
 {
 	public static void main(String[] args) 
 	{
-
+		// Adding the code from new branch created with User 1
+		// Test to push the code
+		
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		System.out.println("Adding numbers to the list");
 		list.add(2);
