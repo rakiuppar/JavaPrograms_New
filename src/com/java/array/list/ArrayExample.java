@@ -11,6 +11,8 @@ public class ArrayExample
 		int[] intArray = {33, 11, 77, 33, 99, 44, 12, 22, 66, 77, 12, 55};
 		int element = 44;
 		
+		// This line is added from pulled branch
+		
 		System.out.println("Legnth of Array: "+ intArray.length);
 		System.out.println(Arrays.toString(intArray));
 		
