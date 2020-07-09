@@ -11,6 +11,13 @@ public class ArrayExample
 		// Adding the code from new branch created with User 1
 		// Test to push the code
 		
+		
+		// Adding the code from new branch created with User 1
+		// Test to push the code
+		
+		
+		// Adding the code from new branch created with User 1
+		// Test to push the code
 		int[] intArray = {33, 11, 77, 33, 99, 44, 12, 22, 66, 77, 12, 55};
 		int element = 44;
 		
